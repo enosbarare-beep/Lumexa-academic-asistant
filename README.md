@@ -1,0 +1,2 @@
+# Lumexa-academic-asistant
+Mypet
